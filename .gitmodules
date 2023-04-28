@@ -1,0 +1,15 @@
+[submodule "ec2"]
+	path = ec2
+	url = https://github.com/TH-Logistic/ec2.git
+[submodule "key_pair"]
+	path = key_pair
+	url = https://github.com/TH-Logistic/key_pair
+[submodule "eip"]
+	path = eip
+	url = https://github.com/TH-Logistic/eip
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/TH-Logistic/gateway
+[submodule "vpc"]
+	path = vpc
+	url = https://github.com/TH-Logistic/vpc
