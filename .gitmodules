@@ -13,3 +13,9 @@
 [submodule "vpc"]
 	path = vpc
 	url = https://github.com/TH-Logistic/vpc
+[submodule "terraform-rds"]
+	path = terraform-rds
+	url = https://github.com/thinhlh/terraform-rds
+[submodule "rds"]
+	path = rds
+	url = https://github.com/thinhlh/terraform-rds
