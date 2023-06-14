@@ -1,4 +1,4 @@
-# Registry modules
+# Terraform Modules
 > This repository contains reusable registry modules to provision infrastructure at lowest pace
 
 1. EIP: AWS Elastic IP
